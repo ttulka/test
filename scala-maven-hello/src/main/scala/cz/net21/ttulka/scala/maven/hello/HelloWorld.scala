@@ -1,4 +1,4 @@
-package cz.net21.ttulka.scala.maven.hello;
+package cz.net21.ttulka.scala.maven.hello
 
 /**
  * Hello world!
